@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+form{
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+input {
+  margin-bottom: 8px!important;
+}
+.btn{
+  border-radius: 50px !important;
+  background-color: indianred !important;
+  color: white !important;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.delete{
+  margin-top: 25px !important;
+  margin-bottom: 15px !important;
+}
